@@ -4,3 +4,9 @@ body
     font-style: italic;
     color: rgb(21, 255, 0); /* Rojo */
 }
+P
+{
+    color:rgb(25,0,255)
+    font-style:italic;
+    font-size:20px;
+}
